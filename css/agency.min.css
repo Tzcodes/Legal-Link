@@ -42,7 +42,7 @@ section h2.section-heading {
 section h3.section-subheading {
     font-size: 18px;
     font-weight: 400;
-    /* font-style: italic; */
+    font-style: italic;
     margin-bottom: 77px;
     line-height: 30px;
     text-transform: none;
@@ -148,7 +148,7 @@ body {
 header.masthead {
     text-align: center;
     color: #fff;
-    background-image: url(../img/header.jpg);
+    background-image: url(../img/node.jpg);
     background-repeat: no-repeat;
     background-attachment: scroll;
     background-position: center center;
@@ -686,8 +686,8 @@ fieldset[disabled] .btn-primary:hover {
     font-weight: 700;
     padding: 20px 40px;
     border-radius: 3px;
-    color: #8c96ca;
-    border-color: #8c96ca;
+    color: #ffffff;
+    border-color: #ffffff;
     font-family: Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;
     text-transform: uppercase
 }

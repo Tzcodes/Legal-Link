@@ -1,6 +1,6 @@
 Thanks for being our clients!
 
-<<<<<<< HEAD
+<<<<<<<
 
         Author Name: Ramadhani Khamisi
         Author URL: http://tzcodes.com/
