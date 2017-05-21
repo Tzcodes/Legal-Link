@@ -18,7 +18,7 @@ a.active,
 a:active,
 a:focus,
 a:hover {
-    color: #fec503
+    color: #8791c4
 }
 
 h1,
@@ -77,7 +77,7 @@ img::-moz-selection {
     background: 0 0
 }
 body {
-    -webkit-tap-highlight-color: #fed136
+    -webkit-tap-highlight-color: rgba(255, 255, 255, 0)
 }
 #mainNav {
     background-color: #222
@@ -116,7 +116,7 @@ body {
 }
 #mainNav .container .navbar-nav .nav-item .nav-link.active,
 #mainNav .container .navbar-nav .nav-item .nav-link:hover {
-    color: #fed136
+    color: #8791c4
 }
 @media (min-width: 992px) {
     #mainNav {
@@ -219,7 +219,7 @@ header.masthead .intro-text .intro-heading {
     -moz-transition: all ease .5s;
     transition: all ease .5s;
     opacity: 0;
-    background: rgba(254, 209, 54, .9)
+    background: rgb(141, 151, 205)
 }
 #portfolio .portfolio-item .portfolio-link .portfolio-hover:hover {
     opacity: 1
@@ -695,19 +695,19 @@ fieldset[disabled] .btn-primary:hover {
 .btn-xl:focus {
     color: #fff;
     border-color: #b48b01;
-    background-color: #fec503
+    background-color: #8791c4
 }
 .btn-xl:hover {
     color: #fff;
-    border-color: #f6bf01;
-    background-color: #fec503
+    border-color: #ffffff;
+    background-color: #8791c4
 }
 .btn-xl.active,
 .btn-xl:active,
 .open>.btn-xl.dropdown-toggle {
     color: #fff;
     border-color: #f6bf01;
-    background-color: #fec503
+    background-color: #8791c4
 }
 .btn-xl.active.focus,
 .btn-xl.active:focus,
@@ -720,7 +720,7 @@ fieldset[disabled] .btn-primary:hover {
 .open>.btn-xl.dropdown-toggle:hover {
     color: #fff;
     border-color: #b48b01;
-    background-color: #dcab01
+    background-color: #8791c4
 }
 .btn-xl.active,
 .btn-xl:active,
@@ -737,7 +737,7 @@ fieldset[disabled] .btn-xl.focus,
 fieldset[disabled] .btn-xl:focus,
 fieldset[disabled] .btn-xl:hover {
     border-color: #fed136;
-    background-color: #fed136
+    background-color: #8791c4
 }
 .btn-xl .badge {
     color: #fed136;
